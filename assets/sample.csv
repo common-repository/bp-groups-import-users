@@ -1,0 +1,4 @@
+Email,Moderator,Administrator
+sample@sample.com,0,0
+moderator@moderator.com,1,0
+administrator@administrator.com,0,1
